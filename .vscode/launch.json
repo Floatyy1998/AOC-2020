@@ -1,0 +1,301 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Day25",
+            "request": "launch",
+            "mainClass": "Day25.Day25",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day24",
+            "request": "launch",
+            "mainClass": "Day24.Day24",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day23Alternative",
+            "request": "launch",
+            "mainClass": "Day23.Day23Alternative",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day23Zwei",
+            "request": "launch",
+            "mainClass": "Day23.Day23Zwei",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day23",
+            "request": "launch",
+            "mainClass": "Day23.Day23",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day22",
+            "request": "launch",
+            "mainClass": "Day22.Day22",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day21",
+            "request": "launch",
+            "mainClass": "Day21.Day21",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day17",
+            "request": "launch",
+            "mainClass": "Day17.Day17",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Da174",
+            "request": "launch",
+            "mainClass": "Day17.Da174",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Day16",
+            "request": "launch",
+            "mainClass": "Day16.Day16",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day1<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day1.Day1",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day1Zwei<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day1.Day1Zwei",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day10<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day10.Day10",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day11<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day11.Day11",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day12<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day12.Day12",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day12Zwei<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day12.Day12Zwei",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day13<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day13.Day13",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day13Zwei<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day13.Day13Zwei",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day14<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day14.Day14",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day14Zwei<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day14.Day14Zwei",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day15<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day15.Day15",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day2<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day2.Day2",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day2RegEx<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day2.Day2RegEx",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day2Zwei<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day2.Day2Zwei",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day2ZweiRegEx<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day2.Day2ZweiRegEx",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day3<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day3.Day3",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day3Zwei<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day3.Day3Zwei",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day4<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day4.Day4",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day4Zwei<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day4.Day4Zwei",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day5<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day5.Day5",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day2ZweiSchauPython<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day6.Day2ZweiSchauPython",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day6<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day6.Day6",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day7<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day7.Day7",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day7EinsRekursion<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day7.Day7EinsRekursion",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day7Zwei<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day7.Day7Zwei",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day8<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day8.Day8",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day8Zwei<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day8.Day8Zwei",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day9<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day9.Day9",
+            "projectName": "JAVATEST_5841ce0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Day9Zwei<JAVATEST_5841ce0>",
+            "request": "launch",
+            "mainClass": "Day9.Day9Zwei",
+            "projectName": "JAVATEST_5841ce0"
+        }
+    ]
+}
